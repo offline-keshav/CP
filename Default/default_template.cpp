@@ -2,20 +2,19 @@
 
 using namespace std;
 
+void sol()
+{
+}
+
 int main()
 {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
+    int tests;
+    cin >> tests;
 
-
-    char a = 'a';
-    for (int i = 0; i < 3; ++i)
+    while (tests-- > 0)
     {
-        for (int j = 0; j < 3; ++j)
-        {
-            cout << a << " ";
-            ++a;
-        }
-        cout << endl;
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        void();
     }
 }
